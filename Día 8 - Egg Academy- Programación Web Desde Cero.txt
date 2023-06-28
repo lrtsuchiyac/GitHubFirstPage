@@ -1,0 +1,38 @@
+Coach / Daniela
+Mentor Experto / Daniel Videla
+
++Jaider Romero - Facilitador/a
++Luis Ricardo Tsuchiya Camargo
++Juan Colmenares
++Diana Rendon Julio
++Marcos Oropel
++Alejandro García
++Gabriel Estacio
++Maribel Costales
+Maria Elizabeth Genes Ga...
+
+60 Preguntas...
+Se pasa por 45 preguntas
+Es un examen de selección Multiple.
+
+
+
+
+
+
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EGU3-R12nrs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+
+Alejandro García Rivera 9:24 PM
+https://alexgr00.github.io/travel_agency.github.io/
+mira esta página es solo html y css
+ tiene flex-box y grid
+
+Alejandro García Rivera  to  Everyone 9:24 PM
+checa como funciona
+es toda funcional yo la hice

@@ -1,0 +1,54 @@
+display: flex;
+
+/*==== Flex Direction ====*/ X ->
+
+/*==== ROW ====*/
+flex-direction: row; - - - - en orden ejemplo Logo - Menu Principal - Búsqueda - Login
+
+flex-direction: row-reverse; - - - - cambiara el orden Login - Búsqueda - Menu Principal - Logo
+
+/*==== Column ====*/
+flex-direction: column; ejemplo
+- Logo
+- Menu Principal
+- Búsqueda
+- Login
+
+flex-direction: column-reverse;
+- Login
+- Búsqueda
+- Menu Principal
+- Logo
+
+/*==== Wrap ====*/
+flex-wrap: nowrap; esta nos permite acomodar los elementos si uno añade más elementos y no caben (se desbordan) este los acomodará automáticamente los hace más chicos
+
+flex-wrap: wrap; este si no caben los acomodará automáticamente en filas
+
+flex-wrap: wrap-reverse; nos permite acomodar el orden en el sentido contrario
+
+/*==== Flex Flow ====*/
+nos permite poner en una sola fila FLEX-DIRECTION y FLEX_WRAP
+
+/*==== Justify Content ====*/
+flex-start; nos permite alinear a la izquierda
+
+flex-end; nos permite alinear a la derecha
+
+center; nos permite alinear al centro
+
+space-between; nos permite alinear con un espacio entre ellos
+- - -
+
+space-around; nos permite distribuir los elementos teniendo un pequeño espacio entre los elementos y el contenedor
+ - - - 
+
+space-evenly; nos permite distribuir a la misma distancia el contenedo y los elementos
+ - - - 
+
+/*==== Align Items ====*/ Y de arriba para abajo
+flex-start; empezaran arriba
+
+flex-end; empezaran abajo
+
+stretch; ocupara todo el alto de contenedor
